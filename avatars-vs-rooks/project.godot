@@ -31,9 +31,10 @@ Global="*res://Framework/Clases/Global/global.gd"
 
 window/size/viewport_width=740
 window/size/viewport_height=960
-window/size/window_width_override=740
-window/size/window_height_override=960
-window/stretch/mode="canvas_items"
+window/size/window_width_override=0
+window/size/window_height_override=0
+window/stretch/mode="viewport"
+window/stretch/aspect="expand"
 
 [dotnet]
 
